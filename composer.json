@@ -1,0 +1,18 @@
+{
+    "name": "yly101/tools",
+    "description": "tools",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yly101\\Tools\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hongtao.cheng",
+            "email": "clientau@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
